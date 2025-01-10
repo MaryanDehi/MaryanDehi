@@ -37,14 +37,21 @@
 
 <!--Commit History trackers-->
 
-<a href="https://github.com/devxb/gitanimals">
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/MaryanDehi?pet-id=665588536183534296"
+      width="600"
+      height="200"
+      alt="Gitanimals"
+    />
+  </a>
   <img
-    src="https://render.gitanimals.org/lines/MaryanDehi?pet-id=665588536183534296"
-    width="300"
-    height="120"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp"
+    height="200"
+    alt="Typing Cat"
   />
-</a>
-   <img align="right" height="180em" alt="Maryan-cat-typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp">
+</div>
  
   ![Snake animation](https://raw.githubusercontent.com/MaryanDehi/MaryanDehi/output/github-contribution-grid-snake-dark.svg)
  
