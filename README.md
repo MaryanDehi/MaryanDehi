@@ -26,9 +26,7 @@
   <img height="40" align="center" alt="Maryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
-  <img align="right" height="180" alt="Typing Cat" 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp"
-  />
+  
 </br>
 
 ## Contact 
@@ -49,6 +47,9 @@
       alt="Gitanimals"
     />
   </a>
+ <img align="right" height="180" alt="Typing Cat" 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp"
+  />
 </div>
  
   ![Snake animation](https://raw.githubusercontent.com/MaryanDehi/MaryanDehi/output/github-contribution-grid-snake-dark.svg)
