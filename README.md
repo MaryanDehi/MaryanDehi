@@ -20,7 +20,7 @@
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+  <img align="right" height="180em" alt="Maryan-cat-typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp">
 </div>
   
 </br>
@@ -31,6 +31,17 @@
   <a href = "mailto: maryan.dehi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
+
+<!--Commit History trackers-->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/MaryanDehi?pet-id=665588536183534296"
+    width="600"
+    height="120"
+  />
+</a>
+  
  
   ![Snake animation](https://github.com/MaryanDehi/MaryanDehi/blob/output/github-contribution-grid-snake.svg)
  
