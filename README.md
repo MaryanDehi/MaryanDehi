@@ -43,7 +43,7 @@
     <img
       src="https://render.gitanimals.org/lines/MaryanDehi?pet-id=665588536183534296"
       width="600"
-      height="100"
+      height="150"
       alt="Gitanimals"
     />
   </a>
