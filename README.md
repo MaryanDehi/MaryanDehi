@@ -24,7 +24,6 @@
   <img height="40" align="center" alt="Maryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Maryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Maryan-cat-typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp">
 </div>
   
 </br>
@@ -45,7 +44,7 @@
     height="120"
   />
 </a>
-  
+   <img align="right" height="180em" alt="Maryan-cat-typing" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp">
  
   ![Snake animation](https://raw.githubusercontent.com/MaryanDehi/MaryanDehi/output/github-contribution-grid-snake-dark.svg)
  
