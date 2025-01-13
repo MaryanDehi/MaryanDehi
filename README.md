@@ -42,7 +42,7 @@
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/MaryanDehi?pet-id=665588536183534296"
-      width="600"
+      width="400"
       height="150"
       alt="Gitanimals"
     />
