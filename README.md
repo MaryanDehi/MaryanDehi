@@ -3,8 +3,7 @@
 
  <div>
   <a href="https://github.com/MaryanDehi">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryanDehi&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaryanDehi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   
 </div>
  
  ## Skills
@@ -48,7 +47,7 @@
     />
   </a>
  <img align="right" height="180" alt="Typing Cat" 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rjd2hlNWx1NXliYW40bnp1dXhhOHI2YmtqOWt4YjFmNGdmbTc2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.webp"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzljemRmbWh3cDhpbGtybzZ6MHJ2d2twZHU2djJ3djYyMTB0OGhheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"
   />
 </div>
  
